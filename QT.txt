@@ -1537,7 +1537,7 @@ if game.PlaceId == 2753915549 then
                 CFrameQuest = CFrame.new(108.401733, 56.9854965, -12781.8281, -0.192356452, 0.56436497, -0.802802026, 7.88193777e-09, 0.818079531, 0.575104952, 0.98132515, 0.11062514, -0.157362878)
             elseif MyLevel == 2350 or MyLevel <= 2374 then
                 Mon = "Sweet Thief [Lv. 2350]"
-                LevelQuest = 1
+                LevelQuest = 2
                 NameQuest = "ChocolateQuest2"
                 NameMon = "Sweet Thief"
                 CFrameQuest = CFrame.new(108.401733, 56.9854965, -12781.8281, -0.192356452, 0.56436497, -0.802802026, 7.88193777e-09, 0.818079531, 0.575104952, 0.98132515, 0.11062514, -0.157362878)

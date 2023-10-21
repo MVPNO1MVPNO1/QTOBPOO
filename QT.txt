@@ -122,7 +122,7 @@ function Update:Window(text,logo,keybind)
 	Logo.BackgroundTransparency = 1.000
 	Logo.Position = UDim2.new(0, 10, 0, 1)
 	Logo.Size = UDim2.new(0, 25, 0, 25)
-	Logo.Image = "rbxassetid://"..tostring(logo)
+	Logo.Image = "https://create.roblox.com/marketplace/asset/15125536498/noFilter%3Fkeyword=&pageNumber=&pagePosition="..tostring(logo)
 
 	local Name = Instance.new("TextLabel")
 	Name.Name = "Name"

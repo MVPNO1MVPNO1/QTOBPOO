@@ -6002,6 +6002,10 @@ end)
     S:Button("Buy Dragon Talon",function()
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyDragonTalon")
     end)
+
+S:Button("Buy God human",function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyGodhuman")
+    end)
     
     -----Shop----------------
     
